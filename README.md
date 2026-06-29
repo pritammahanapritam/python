@@ -1,5 +1,5 @@
 # Smart Crop Recommendation System
-AI Internship Project — End-to-End Workflow
+AI Internship Project — The-Multimodal-AI-Ecosystem
 
 ## 1. What this project does
 Given soil nutrient readings (Nitrogen, Phosphorus, Potassium, pH) and climate
